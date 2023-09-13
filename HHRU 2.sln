@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHRU 2", "HHRU 2\HHRU 2.csproj", "{29738139-9C80-4ECA-BB52-FB3F6CCF96BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29738139-9C80-4ECA-BB52-FB3F6CCF96BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29738139-9C80-4ECA-BB52-FB3F6CCF96BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29738139-9C80-4ECA-BB52-FB3F6CCF96BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29738139-9C80-4ECA-BB52-FB3F6CCF96BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59109891-DF79-420D-B0D3-BAFFEF87A01A}
+	EndGlobalSection
+EndGlobal
